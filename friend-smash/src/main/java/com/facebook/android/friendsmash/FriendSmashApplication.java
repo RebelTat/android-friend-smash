@@ -24,6 +24,8 @@ import android.app.Application;
 import android.content.SharedPreferences;
 
 import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
+
 import com.parse.Parse;
 import com.parse.ParseFacebookUtils;
 import com.parse.ParseUser;
